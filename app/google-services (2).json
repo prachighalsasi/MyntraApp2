@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "294241760740",
+    "project_id": "myntraapp-a1ee7",
+    "storage_bucket": "myntraapp-a1ee7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294241760740:android:c04d9b8ad08cbaedb903f1",
+        "android_client_info": {
+          "package_name": "com.example.myntraapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294241760740-25o38g8sod0l3cak4u14u5dsoqngkjg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUiFcrjf_I-jPkdte0uQ3WfE60CCNof0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294241760740-25o38g8sod0l3cak4u14u5dsoqngkjg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    tools:context=".SelectFriends">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Who do you want to send this to"
+        android:textSize="30dp"
+        >
+
+
+    </TextView>
+    <CheckBox
+        android:layout_marginTop="20dp"
+        android:id="@+id/checkBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Aaditree"
+        android:textSize="30dp"
+        tools:layout_editor_absoluteX="124dp"
+        tools:layout_editor_absoluteY="101dp" />
+
+    <CheckBox
+        android:id="@+id/checkBox2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Prachi"
+        android:textSize="30dp"
+        tools:layout_editor_absoluteX="143dp"
+        tools:layout_editor_absoluteY="155dp" />
+
+    <CheckBox
+        android:id="@+id/checkBox3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Poorva"
+        android:textSize="30dp"
+        tools:layout_editor_absoluteX="170dp"
+        tools:layout_editor_absoluteY="235dp" />
+
+    <CheckBox
+        android:id="@+id/checkBox4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Aalia"
+        android:textSize="30dp"
+        tools:layout_editor_absoluteX="174dp"
+        tools:layout_editor_absoluteY="350dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SHARE"
+        android:layout_gravity="center"
+        android:layout_marginTop="100dp"
+        android:id="@+id/btnshare"
+        />
+
+    </LinearLayout>
